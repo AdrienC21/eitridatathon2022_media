@@ -2,6 +2,8 @@
 
 ![eitrilogo](https://raw.githubusercontent.com/AdrienC21/eitridatathon2022_media/master/images/eitrilogo.png)
 
+[Click here to visit the website of the event.](https://www.eitrilab.no/datathon2022)
+
 This repository contains the news media & respiratory diseases dataset as part of one of the challenges of the Eitri Medical Datathon 2022.
 
 It contains data but also scripts to expand the dataset.
