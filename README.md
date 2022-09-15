@@ -88,7 +88,7 @@ Geojson file with the boundaries of each county. Useful to plot choropleth map (
 
 Below is an example of plot that can be made using this file:
 
-![choropleth_norway](https://raw.githubusercontent.com/AdrienC21/eitridatathon2022_media/master/images/choropleth_norway.png)
+![choropleth_norway2](https://raw.githubusercontent.com/AdrienC21/eitridatathon2022_media/master/images/choropleth_norway2.png)
 
 ## License
 
