@@ -1,5 +1,7 @@
 # Eitri Medical Datathon 2022 - News media & respiratory diseases dataset
 
+![eitrilogo](https://raw.githubusercontent.com/AdrienC21/eitridatathon2022_media/master/images/eitrilogo.png)
+
 This repository contains the news media & respiratory diseases dataset as part of one of the challenges of the Eitri Medical Datathon 2022.
 
 It contains data but also scripts to expand the dataset.
@@ -83,6 +85,10 @@ Map each counties in Norway to the corresponding fylke (county after 1 January 2
 ```fylker_komprimert.csv```
 
 Geojson file with the boundaries of each county. Useful to plot choropleth map (an exemple of such plot is provided in the workshop: Leveraging Non-traditional Sources of Data).
+
+Below is an example of plot that can be made using this file:
+
+![choropleth_norway](https://raw.githubusercontent.com/AdrienC21/eitridatathon2022_media/master/images/choropleth_norway.png)
 
 ## License
 
